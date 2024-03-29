@@ -1,6 +1,6 @@
 {
     "name": "meshnet-homeassistant",
-    "version": "1.3.3.8",
+    "version": "1.3.3.9",
     "slug": "meshnet-homeassistant",
     "description": "A zero config VPN",
     "arch": [
@@ -41,7 +41,7 @@
     "schema": {
       "nordvpn_token": "str",
       "hostname": "str?",
-      "peer": "str"
+      "peer": []
     },
     "init": false
   }
