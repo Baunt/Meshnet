@@ -39,7 +39,8 @@
     ],
     "schema": {
       "nordvpn_token": "str",
-      "meshnet_nickname": "str?"
+      "meshnet_nickname": "str?",
+      "peer": "str"
     },
     "init": false
 }

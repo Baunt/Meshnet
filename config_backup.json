@@ -40,7 +40,8 @@
     ],
     "schema": {
       "nordvpn_token": "str",
-      "hostname": "str?"
+      "hostname": "str?",
+      "peer": "str"
     },
     "init": false
   }
