@@ -41,7 +41,7 @@
     "schema": {
       "nordvpn_token": "str",
       "hostname": "str?",
-      "peer": []
+      "meshnet_peer": "str"
     },
     "init": false
   }
