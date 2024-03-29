@@ -1,7 +1,7 @@
 {
-    "name": "Meshnet",
+    "name": "meshnet-homeassistant",
     "version": "1.3.3.7",
-    "slug": "mesh3",
+    "slug": "meshnet-homeassistant",
     "description": "A zero config VPN",
     "arch": [
       "armhf",
